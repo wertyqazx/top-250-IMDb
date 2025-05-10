@@ -35,4 +35,4 @@ python scripts/get_imdb_top250.py --output data/raw/imdb_top250_raw.csv --deep
 After scraping, open `notebooks/analysis.ipynb` and run all cells to reproduce the figures.
 
 ## Author
-*Fill in your names here.*
+*Yakovlev Oleg 413120, Yakovlev Stepan 468173*
