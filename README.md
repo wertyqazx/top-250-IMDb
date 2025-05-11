@@ -1,38 +1,78 @@
-# IMDb Top‑250 Analysis
+# IMDb Top‑250 • Data Pipeline & EDA
 
-This repository contains code and data for the project:
+Анализируем список IMDb Top‑250, чтобы понять:
 
-**Goal**  
-Analyse the IMDb Top‑250 list to understand which genres, years and countries are most represented, how ratings and vote counts are distributed, and what patterns characterise films that make it into the top.
+* какие жанры, годы и страны чаще всего попадают в топ;
+* как связаны рейтинг, число голосов, длительность;
+* почему одни фильмы оказываются выше других.
 
-## Structure
+---
+
+## 📁 Структура репозитория
 ```
 .
-├── scripts/               # scraping & utility scripts
+├── scripts/
+│   ├── get_imdb_top250.py        # парсер (basic / full)
+│   └── clean_imdb_top250.py      # очистка raw → clean
 ├── data/
-│   ├── raw/               # raw scraped CSV
-│   └── clean/             # cleaned dataset
-├── notebooks/             # Jupyter notebooks with EDA and analysis
-├── dashboard/             # (optional) Streamlit/Dash app
-├── requirements.txt       # python dependencies
-└── README.md              # this file
+│   ├── raw/                      # результаты скрапинга (.csv)
+│   └── clean/                    # очищенные датасеты
+├── notebooks/
+│   └── analysis.ipynb            # EDA и визуализации
+├── requirements.txt              # зависимости
+└── README.md
 ```
 
-## Setup
+---
+
+## ⚙️ Установка
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # or .\venv\Scripts\activate on Windows
+source venv/bin/activate     # Windows → .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Usage
+---
 
-```bash
-python scripts/get_imdb_top250.py --output data/raw/imdb_top250_raw.csv --deep
-```
+## 🚀 Как воспроизвести
 
-After scraping, open `notebooks/analysis.ipynb` and run all cells to reproduce the figures.
+1. **Скрапинг**
 
-## Author
-*Fill in your names here.*
+   ```bash
+   # быстрый (без года/страны/актёров)
+   python scripts/get_imdb_top250.py
+
+   # полный (год, страна, актёры, ~5‑10 мин)
+   python scripts/get_imdb_top250.py --deep
+   ```
+
+   *Файлы появятся в `data/raw/`
+   — `imdb_top250_basic.csv` или `imdb_top250_full.csv`.*
+
+2. **Очистка**
+
+   ```bash
+   python scripts/clean_imdb_top250.py
+   ```
+
+   Результат сохранится в `data/clean/`
+   — `*_clean.csv` с приведёнными типами и списками.
+
+3. **Анализ**
+
+   Открыть Jupyter‑ноутбук:
+
+   ```bash
+   jupyter lab
+   ```
+
+   и запустить `notebooks/analysis.ipynb`
+   (или просто «Run All»).
+
+---
+
+## ✍️ Автор(ы)
+
+*Data Pipeline:* **Имя A**  
+*EDA & Visuals:* **Имя B**

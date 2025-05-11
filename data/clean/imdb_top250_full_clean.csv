@@ -1,0 +1,251 @@
+rank,title,rating,votes,genres,duration_min,content_rating,year,country,actors,url
+1,The Shawshank Redemption,9.3,3041987,['Drama'],142,R,1994,United States,"['Tim Robbins', 'Morgan Freeman', 'Bob Gunton']",https://www.imdb.com/title/tt0111161/
+2,The Godfather,9.2,2123420,"['Crime', 'Drama']",175,R,1972,United States,"['Marlon Brando', 'Al Pacino', 'James Caan']",https://www.imdb.com/title/tt0068646/
+3,The Dark Knight,9.0,3018942,"['Action', 'Crime', 'Drama']",152,PG-13,2008,United States,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart']",https://www.imdb.com/title/tt0468569/
+4,The Godfather Part II,9.0,1428487,"['Crime', 'Drama']",202,R,1974,United States,"['Al Pacino', 'Robert De Niro', 'Robert Duvall']",https://www.imdb.com/title/tt0071562/
+5,12 Angry Men,9.0,924447,"['Crime', 'Drama']",96,Approved,1957,United States,"['Henry Fonda', 'Lee J. Cobb', 'Martin Balsam']",https://www.imdb.com/title/tt0050083/
+6,The Lord of the Rings: The Return of the King,9.0,2076740,"['Adventure', 'Drama', 'Fantasy']",201,PG-13,2003,New Zealand,"['Elijah Wood', 'Viggo Mortensen', 'Ian McKellen']",https://www.imdb.com/title/tt0167260/
+7,Schindler&apos;s List,9.0,1521560,"['Biography', 'Drama', 'History']",195,R,1994,United States,"['Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley']",https://www.imdb.com/title/tt0108052/
+8,Pulp Fiction,8.9,2333365,"['Crime', 'Drama']",154,R,1994,United States,"['John Travolta', 'Uma Thurman', 'Samuel L. Jackson']",https://www.imdb.com/title/tt0110912/
+9,The Lord of the Rings: The Fellowship of the Ring,8.9,2106613,"['Adventure', 'Drama', 'Fantasy']",178,PG-13,2001,New Zealand,"['Elijah Wood', 'Ian McKellen', 'Orlando Bloom']",https://www.imdb.com/title/tt0120737/
+10,"Il buono, il brutto, il cattivo",8.8,852506,"['Adventure', 'Western']",178,R,1967,Italy,"['Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef']",https://www.imdb.com/title/tt0060196/
+11,Forrest Gump,8.8,2377850,"['Drama', 'Romance']",142,PG-13,1994,United States,"['Tom Hanks', 'Robin Wright', 'Gary Sinise']",https://www.imdb.com/title/tt0109830/
+12,The Lord of the Rings: The Two Towers,8.8,1872495,"['Adventure', 'Drama', 'Fantasy']",179,PG-13,2002,New Zealand,"['Elijah Wood', 'Ian McKellen', 'Viggo Mortensen']",https://www.imdb.com/title/tt0167261/
+13,Fight Club,8.8,2463364,"['Crime', 'Drama', 'Thriller']",139,R,1999,Germany,"['Brad Pitt', 'Edward Norton', 'Meat Loaf']",https://www.imdb.com/title/tt0137523/
+14,Inception,8.8,2681707,"['Action', 'Adventure', 'Sci-Fi']",148,PG-13,2010,United States,"['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page']",https://www.imdb.com/title/tt1375666/
+15,Star Wars: Episode V - The Empire Strikes Back,8.7,1440545,"['Action', 'Adventure', 'Fantasy']",124,PG,1980,United States,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",https://www.imdb.com/title/tt0080684/
+16,The Matrix,8.7,2154468,"['Action', 'Sci-Fi']",136,R,1999,United States,"['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss']",https://www.imdb.com/title/tt0133093/
+17,GoodFellas,8.7,1324998,"['Biography', 'Crime', 'Drama']",145,R,1990,United States,"['Robert De Niro', 'Ray Liotta', 'Joe Pesci']",https://www.imdb.com/title/tt0099685/
+18,Interstellar,8.7,2343006,"['Adventure', 'Drama', 'Sci-Fi']",169,PG-13,2014,United States,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']",https://www.imdb.com/title/tt0816692/
+19,One Flew Over the Cuckoo&apos;s Nest,8.7,1115961,['Drama'],133,R,1975,United States,"['Jack Nicholson', 'Louise Fletcher', 'Michael Berryman']",https://www.imdb.com/title/tt0073486/
+20,Se7en,8.6,1910076,"['Crime', 'Drama', 'Mystery']",127,R,1995,United States,"['Morgan Freeman', 'Brad Pitt', 'Kevin Spacey']",https://www.imdb.com/title/tt0114369/
+21,It&apos;s a Wonderful Life,8.6,527463,"['Drama', 'Family', 'Fantasy']",130,PG,1947,United States,"['James Stewart', 'Donna Reed', 'Lionel Barrymore']",https://www.imdb.com/title/tt0038650/
+22,The Silence of the Lambs,8.6,1634358,"['Crime', 'Drama', 'Horror']",118,R,1991,United States,"['Jodie Foster', 'Anthony Hopkins', 'Scott Glenn']",https://www.imdb.com/title/tt0102926/
+23,Shichinin no samurai,8.6,383805,"['Action', 'Drama']",207,Not Rated,1956,Japan,"['Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima']",https://www.imdb.com/title/tt0047478/
+24,Saving Private Ryan,8.6,1569196,"['Drama', 'War']",169,R,1998,United States,"['Tom Hanks', 'Matt Damon', 'Tom Sizemore']",https://www.imdb.com/title/tt0120815/
+25,Cidade de Deus,8.6,837033,"['Crime', 'Drama']",130,R,2004,Brazil,"['Alexandre Rodrigues', 'Leandro Firmino', 'Matheus Nachtergaele']",https://www.imdb.com/title/tt0317248/
+26,The Green Mile,8.6,1484689,"['Crime', 'Drama', 'Fantasy']",189,R,1999,United States,"['Tom Hanks', 'Michael Clarke Duncan', 'David Morse']",https://www.imdb.com/title/tt0120689/
+27,La vita è bella,8.6,777841,"['Comedy', 'Drama', 'Romance']",116,PG-13,1997,Italy,"['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini']",https://www.imdb.com/title/tt0118799/
+28,Terminator 2: Judgment Day,8.6,1232091,"['Action', 'Adventure', 'Sci-Fi']",137,R,1991,United States,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong']",https://www.imdb.com/title/tt0103064/
+29,Star Wars,8.6,1507549,"['Action', 'Adventure', 'Fantasy']",121,PG,1977,United States,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",https://www.imdb.com/title/tt0076759/
+30,Back to the Future,8.5,1376977,"['Adventure', 'Comedy', 'Sci-Fi']",116,PG,1985,United States,"['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson']",https://www.imdb.com/title/tt0088763/
+31,Sen to Chihiro no kamikakushi,8.6,909667,"['Animation', 'Adventure', 'Family']",124,PG,2003,Japan,"['Daveigh Chase', 'Suzanne Pleshette', 'Miyu Irino']",https://www.imdb.com/title/tt0245429/
+32,The Pianist,8.5,967691,"['Biography', 'Drama', 'Music']",150,R,2003,France,"['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay']",https://www.imdb.com/title/tt0253474/
+33,Gladiator,8.5,1758559,"['Action', 'Adventure', 'Drama']",155,R,2000,United States,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen']",https://www.imdb.com/title/tt0172495/
+34,Gisaengchung,8.5,1061377,"['Drama', 'Thriller']",132,R,2019,South Korea,"['Song Kang-ho', 'Lee Sun-kyun', 'Cho Yeo-jeong']",https://www.imdb.com/title/tt6751668/
+35,Psycho,8.5,752210,"['Drama', 'Horror', 'Mystery']",109,R,1960,United States,"['Anthony Perkins', 'Janet Leigh', 'Vera Miles']",https://www.imdb.com/title/tt0054215/
+36,The Lion King,8.5,1202870,"['Animation', 'Adventure', 'Drama']",88,G,1994,United States,"['Matthew Broderick', 'Jeremy Irons', 'James Earl Jones']",https://www.imdb.com/title/tt0110357/
+37,Hotaru no haka,8.5,348666,"['Animation', 'Drama', 'War']",88,Not Rated,1989,Japan,"['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Akemi Yamaguchi']",https://www.imdb.com/title/tt0095327/
+38,The Departed,8.5,1487025,"['Crime', 'Drama', 'Thriller']",151,R,2006,United States,"['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson']",https://www.imdb.com/title/tt0407887/
+39,Whiplash,8.5,1073397,"['Drama', 'Music']",106,R,2014,United States,"['Miles Teller', 'J.K. Simmons', 'Melissa Benoist']",https://www.imdb.com/title/tt2582802/
+40,Seppuku,8.6,79541,"['Drama', 'Mystery']",133,Not Rated,1964,Japan,"['Tatsuya Nakadai', 'Akira Ishihama', 'Shima Iwashita']",https://www.imdb.com/title/tt0056058/
+41,The Prestige,8.5,1513914,"['Drama', 'Mystery', 'Sci-Fi']",130,PG-13,2006,United Kingdom,"['Christian Bale', 'Hugh Jackman', 'Scarlett Johansson']",https://www.imdb.com/title/tt0482571/
+42,American History X,8.5,1230666,"['Crime', 'Drama']",119,R,1998,United States,"['Edward Norton', 'Edward Furlong', 'Beverly D&apos;Angelo']",https://www.imdb.com/title/tt0120586/
+43,Léon,8.5,1302204,"['Action', 'Crime', 'Drama']",110,R,1994,France,"['Jean Reno', 'Gary Oldman', 'Natalie Portman']",https://www.imdb.com/title/tt0110413/
+44,Spider-Man: Across the Spider-Verse,8.5,454516,"['Animation', 'Action', 'Adventure']",140,PG,2023,United States,"['Shameik Moore', 'Hailee Steinfeld', 'Brian Tyree Henry']",https://www.imdb.com/title/tt9362722/
+45,Casablanca,8.5,630968,"['Drama', 'Romance', 'War']",102,PG,1943,United States,"['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid']",https://www.imdb.com/title/tt0034583/
+46,The Usual Suspects,8.5,1189296,"['Crime', 'Drama', 'Mystery']",106,R,1995,United States,"['Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri']",https://www.imdb.com/title/tt0114814/
+47,Intouchables,8.5,977832,"['Comedy', 'Drama']",112,R,2011,France,"['François Cluzet', 'Omar Sy', 'Anne Le Ny']",https://www.imdb.com/title/tt1675434/
+48,Nuovo Cinema Paradiso,8.5,301137,"['Drama', 'Romance']",174,PG,1990,Italy,"['Philippe Noiret', 'Enzo Cannavale', 'Antonella Attili']",https://www.imdb.com/title/tt0095765/
+49,Alien,8.5,1015455,"['Horror', 'Sci-Fi']",117,R,1979,United Kingdom,"['Sigourney Weaver', 'Tom Skerritt', 'John Hurt']",https://www.imdb.com/title/tt0078748/
+50,Modern Times,8.5,272789,"['Comedy', 'Drama', 'Romance']",87,G,1936,United States,"['Charles Chaplin', 'Paulette Goddard', 'Henry Bergman']",https://www.imdb.com/title/tt0027977/
+51,Rear Window,8.5,545901,"['Drama', 'Mystery', 'Thriller']",112,PG,1954,United States,"['James Stewart', 'Grace Kelly', 'Wendell Corey']",https://www.imdb.com/title/tt0047396/
+52,C&apos;era una volta il West,8.5,367949,"['Drama', 'Western']",166,PG-13,1969,Italy,"['Henry Fonda', 'Charles Bronson', 'Claudia Cardinale']",https://www.imdb.com/title/tt0064116/
+53,Django Unchained,8.5,1790415,['Western'],165,R,2012,United States,"['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio']",https://www.imdb.com/title/tt1853728/
+54,City Lights,8.5,206861,"['Comedy', 'Drama', 'Romance']",87,G,1931,United States,"['Charles Chaplin', 'Virginia Cherrill', 'Florence Lee']",https://www.imdb.com/title/tt0021749/
+55,Apocalypse Now,8.4,741837,"['Drama', 'Mystery', 'War']",147,R,1979,United States,"['Martin Sheen', 'Marlon Brando', 'Robert Duvall']",https://www.imdb.com/title/tt0078788/
+56,Dune: Part Two,8.5,629331,"['Action', 'Adventure', 'Drama']",166,PG-13,2024,United States,"['Timothée Chalamet', 'Zendaya', 'Rebecca Ferguson']",https://www.imdb.com/title/tt15239678/
+57,WALL·E,8.4,1260387,"['Animation', 'Adventure', 'Family']",98,G,2008,United States,"['Ben Burtt', 'Elissa Knight', 'Jeff Garlin']",https://www.imdb.com/title/tt0910970/
+58,Memento,8.4,1378228,"['Mystery', 'Thriller']",113,R,2001,United States,"['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano']",https://www.imdb.com/title/tt0209144/
+59,Raiders of the Lost Ark,8.4,1073798,"['Action', 'Adventure']",115,PG,1981,United States,"['Harrison Ford', 'Karen Allen', 'Paul Freeman']",https://www.imdb.com/title/tt0082971/
+60,Das Leben der Anderen,8.4,427554,"['Drama', 'Mystery', 'Thriller']",137,R,2007,Germany,"['Ulrich Mühe', 'Martina Gedeck', 'Sebastian Koch']",https://www.imdb.com/title/tt0405094/
+61,Avengers: Infinity War,8.4,1286687,"['Action', 'Adventure', 'Sci-Fi']",149,PG-13,2018,United States,"['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo']",https://www.imdb.com/title/tt4154756/
+62,Sunset Boulevard,8.4,248768,"['Drama', 'Film-Noir']",110,Approved,1950,United States,"['William Holden', 'Gloria Swanson', 'Erich von Stroheim']",https://www.imdb.com/title/tt0043014/
+63,Spider-Man: Into the Spider-Verse,8.4,730301,"['Animation', 'Action', 'Adventure']",117,PG,2018,Canada,"['Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld']",https://www.imdb.com/title/tt4633694/
+64,Witness for the Prosecution,8.4,149839,"['Crime', 'Drama', 'Mystery']",116,Approved,1958,United States,"['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton']",https://www.imdb.com/title/tt0051201/
+65,Paths of Glory,8.4,225884,"['Drama', 'War']",88,Approved,1957,United States,"['Kirk Douglas', 'Ralph Meeker', 'Adolphe Menjou']",https://www.imdb.com/title/tt0050825/
+66,The Shining,8.4,1165979,"['Drama', 'Horror']",146,R,1980,United Kingdom,"['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd']",https://www.imdb.com/title/tt0081505/
+67,The Great Dictator,8.4,248666,"['Comedy', 'Drama', 'War']",125,G,1941,United States,"['Charles Chaplin', 'Paulette Goddard', 'Jack Oakie']",https://www.imdb.com/title/tt0032553/
+68,12th Fail,8.8,147350,"['Biography', 'Drama']",147,,2023,India,"['Vikrant Massey', 'Medha Shankr', 'Anant Joshi']",https://www.imdb.com/title/tt23849204/
+69,Inglourious Basterds,8.4,1681517,"['Adventure', 'Drama', 'War']",153,R,2009,United States,"['Brad Pitt', 'Diane Kruger', 'Eli Roth']",https://www.imdb.com/title/tt0361748/
+70,Aliens,8.4,808481,"['Action', 'Adventure', 'Horror']",137,R,1986,United Kingdom,"['Sigourney Weaver', 'Michael Biehn', 'Carrie Henn']",https://www.imdb.com/title/tt0090605/
+71,The Dark Knight Rises,8.4,1912573,"['Action', 'Crime', 'Drama']",164,PG-13,2012,United States,"['Christian Bale', 'Tom Hardy', 'Anne Hathaway']",https://www.imdb.com/title/tt1345836/
+72,Coco,8.4,649559,"['Animation', 'Adventure', 'Drama']",105,PG,2017,United States,"['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt']",https://www.imdb.com/title/tt2380307/
+73,Amadeus,8.4,448367,"['Biography', 'Drama', 'Music']",160,PG,1984,United States,"['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge']",https://www.imdb.com/title/tt0086879/
+74,Toy Story,8.3,1121961,"['Animation', 'Adventure', 'Comedy']",81,G,1995,United States,"['Tom Hanks', 'Tim Allen', 'Don Rickles']",https://www.imdb.com/title/tt0114709/
+75,Avengers: Endgame,8.4,1356336,"['Action', 'Adventure', 'Sci-Fi']",181,PG-13,2019,United States,"['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo']",https://www.imdb.com/title/tt4154796/
+76,Good Will Hunting,8.3,1137004,"['Drama', 'Romance']",126,R,1998,United States,"['Robin Williams', 'Matt Damon', 'Ben Affleck']",https://www.imdb.com/title/tt0119217/
+77,Oldeuboi,8.3,678630,"['Action', 'Drama', 'Mystery']",120,R,2003,South Korea,"['Choi Min-sik', 'Yoo Ji-tae', 'Kang Hye-jeong']",https://www.imdb.com/title/tt0364569/
+78,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,537442,"['Comedy', 'War']",95,PG,1964,United Kingdom,"['Peter Sellers', 'George C. Scott', 'Sterling Hayden']",https://www.imdb.com/title/tt0057012/
+79,Das Boot,8.4,279132,"['Drama', 'War']",149,,1982,West Germany,"['Jürgen Prochnow', 'Herbert Grönemeyer', 'Klaus Wennemann']",https://www.imdb.com/title/tt0082096/
+80,Braveheart,8.3,1129041,"['Biography', 'Drama', 'War']",178,R,1995,United States,"['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan']",https://www.imdb.com/title/tt0112573/
+81,American Beauty,8.3,1248471,['Drama'],122,R,1999,United States,"['Kevin Spacey', 'Annette Bening', 'Thora Birch']",https://www.imdb.com/title/tt0169547/
+82,Mononoke-hime,8.3,460081,"['Animation', 'Adventure', 'Fantasy']",133,PG-13,1997,Japan,"['Yôji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka']",https://www.imdb.com/title/tt0119698/
+83,Kimi no na wa.,8.4,356666,"['Animation', 'Drama', 'Fantasy']",106,,2017,Japan,"['Ryûnosuke Kamiki', 'Mone Kamishiraishi', 'Ryo Narita']",https://www.imdb.com/title/tt5311514/
+84,Tengoku to jigoku,8.4,60127,"['Crime', 'Drama', 'Mystery']",143,Not Rated,1963,Japan,"['Toshirô Mifune', 'Yutaka Sada', 'Tatsuya Nakadai']",https://www.imdb.com/title/tt0057565/
+85,3 Idiots,8.4,458288,"['Comedy', 'Drama']",170,PG-13,2009,India,"['Aamir Khan', 'Madhavan', 'Mona Singh']",https://www.imdb.com/title/tt1187043/
+86,Joker,8.3,1607994,"['Crime', 'Drama', 'Thriller']",122,R,2019,United States,"['Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz']",https://www.imdb.com/title/tt7286456/
+87,Once Upon a Time in America,8.3,394930,"['Crime', 'Drama']",229,R,1984,Italy,"['Robert De Niro', 'James Woods', 'Elizabeth McGovern']",https://www.imdb.com/title/tt0087843/
+88,Capharnaüm,8.4,116027,['Drama'],126,R,2018,Lebanon,"['Zain Al Rafeea', 'Yordanos Shiferaw', 'Boluwatife Treasure Bankole']",https://www.imdb.com/title/tt8267604/
+89,Singin&apos; in the Rain,8.3,272461,"['Comedy', 'Musical', 'Romance']",103,G,1952,United States,"['Gene Kelly', 'Donald O&apos;Connor', 'Debbie Reynolds']",https://www.imdb.com/title/tt0045152/
+90,Hababam Sinifi: Sinifta Kaldi,8.8,26385,['Comedy'],95,,,Turkey,"['Münir Özkul', 'Tarik Akan', 'Kemal Sunal']",https://www.imdb.com/title/tt0252488/
+91,Idi i smotri,8.3,111768,"['Drama', 'Thriller', 'War']",142,Not Rated,1985,Soviet Union,"['Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius']",https://www.imdb.com/title/tt0091251/
+92,Requiem for a Dream,8.3,938426,['Drama'],102,NC-17,2000,United States,"['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly']",https://www.imdb.com/title/tt0180093/
+93,Star Wars: Episode VI - Return of the Jedi,8.3,1164352,"['Action', 'Adventure', 'Fantasy']",131,PG,1983,United States,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",https://www.imdb.com/title/tt0086190/
+94,Toy Story 3,8.3,931300,"['Animation', 'Adventure', 'Comedy']",103,G,2010,United States,"['Tom Hanks', 'Tim Allen', 'Joan Cusack']",https://www.imdb.com/title/tt0435761/
+95,Jagten,8.3,387895,['Drama'],115,R,2012,Denmark,"['Mads Mikkelsen', 'Thomas Bo Larsen', 'Annika Wedderkopp']",https://www.imdb.com/title/tt2106476/
+96,Ikiru,8.3,96335,['Drama'],143,Not Rated,1956,Japan,"['Takashi Shimura', 'Nobuo Kaneko', 'Shin&apos;ichi Himori']",https://www.imdb.com/title/tt0044741/
+97,Eternal Sunshine of the Spotless Mind,8.3,1135951,"['Drama', 'Romance', 'Sci-Fi']",108,R,2004,United States,"['Jim Carrey', 'Kate Winslet', 'Tom Wilkinson']",https://www.imdb.com/title/tt0338013/
+98,2001: A Space Odyssey,8.3,753246,"['Adventure', 'Sci-Fi']",149,G,1968,United Kingdom,"['Keir Dullea', 'Gary Lockwood', 'William Sylvester']",https://www.imdb.com/title/tt0062622/
+99,Reservoir Dogs,8.3,1132100,"['Crime', 'Thriller']",99,R,1992,United States,"['Harvey Keitel', 'Tim Roth', 'Michael Madsen']",https://www.imdb.com/title/tt0105236/
+100,The Apartment,8.3,208828,"['Comedy', 'Drama', 'Romance']",125,Approved,1960,United States,"['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray']",https://www.imdb.com/title/tt0053604/
+101,Incendies,8.3,227488,"['Drama', 'Mystery', 'War']",131,R,2011,Canada,"['Lubna Azabal', 'Mélissa Désormeaux-Poulin', 'Maxim Gaudette']",https://www.imdb.com/title/tt1255953/
+102,Lawrence of Arabia,8.3,328997,"['Adventure', 'Biography', 'Drama']",227,PG,2013,United Kingdom,"['Peter O&apos;Toole', 'Alec Guinness', 'Anthony Quinn']",https://www.imdb.com/title/tt0056172/
+103,Scarface,8.3,965104,"['Crime', 'Drama']",170,R,1983,United States,"['Al Pacino', 'Michelle Pfeiffer', 'Steven Bauer']",https://www.imdb.com/title/tt0086250/
+104,Double Indemnity,8.3,174767,"['Crime', 'Drama', 'Film-Noir']",107,Approved,1944,United States,"['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson']",https://www.imdb.com/title/tt0036775/
+105,Heat,8.3,757673,"['Action', 'Crime', 'Drama']",170,R,1995,United States,"['Al Pacino', 'Robert De Niro', 'Val Kilmer']",https://www.imdb.com/title/tt0113277/
+106,North by Northwest,8.3,360300,"['Adventure', 'Drama', 'Mystery']",136,Approved,1959,United States,"['Cary Grant', 'Eva Marie Saint', 'James Mason']",https://www.imdb.com/title/tt0053125/
+107,Up,8.3,1181219,"['Animation', 'Adventure', 'Comedy']",96,PG,2009,United States,"['Edward Asner', 'Jordan Nagai', 'John Ratzenberger']",https://www.imdb.com/title/tt1049413/
+108,Citizen Kane,8.3,480821,"['Drama', 'Mystery']",119,PG,1941,United States,"['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore']",https://www.imdb.com/title/tt0033467/
+109,M - Eine Stadt sucht einen Mörder,8.3,176964,"['Crime', 'Mystery', 'Thriller']",99,Passed,1931,Germany,"['Peter Lorre', 'Ellen Widmann', 'Inge Landgut']",https://www.imdb.com/title/tt0022100/
+110,Full Metal Jacket,8.2,821625,"['Drama', 'War']",116,R,1987,United Kingdom,"['Matthew Modine', 'R. Lee Ermey', 'Vincent D&apos;Onofrio']",https://www.imdb.com/title/tt0093058/
+111,Vertigo,8.2,444809,"['Mystery', 'Romance', 'Thriller']",128,PG,1958,United States,"['James Stewart', 'Kim Novak', 'Barbara Bel Geddes']",https://www.imdb.com/title/tt0052357/
+112,Le fabuleux destin d&apos;Amélie Poulain,8.3,818327,"['Comedy', 'Romance']",122,R,2002,France,"['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus']",https://www.imdb.com/title/tt0211915/
+113,Jodaeiye Nader az Simin,8.3,269186,['Drama'],123,PG-13,2011,Iran,"['Payman Maadi', 'Leila Hatami', 'Sareh Bayat']",https://www.imdb.com/title/tt1832382/
+114,To Kill a Mockingbird,8.3,343164,"['Crime', 'Drama']",129,Approved,1963,United States,"['Gregory Peck', 'John Megna', 'Frank Overton']",https://www.imdb.com/title/tt0056592/
+115,A Clockwork Orange,8.2,911310,"['Crime', 'Sci-Fi']",136,R,1972,United Kingdom,"['Malcolm McDowell', 'Patrick Magee', 'Michael Bates']",https://www.imdb.com/title/tt0066921/
+116,Taare Zameen Par,8.3,217704,"['Drama', 'Family']",162,PG,2007,India,"['Darsheel Safary', 'Aamir Khan', 'Tisca Chopra']",https://www.imdb.com/title/tt0986264/
+117,Die Hard,8.2,989900,"['Action', 'Thriller']",132,R,1988,United States,"['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia']",https://www.imdb.com/title/tt0095016/
+118,Indiana Jones and the Last Crusade,8.2,838313,"['Action', 'Adventure']",127,PG-13,1989,United States,"['Harrison Ford', 'Sean Connery', 'Alison Doody']",https://www.imdb.com/title/tt0097576/
+119,The Sting,8.2,290244,"['Comedy', 'Crime', 'Drama']",129,PG,1973,United States,"['Paul Newman', 'Robert Redford', 'Robert Shaw']",https://www.imdb.com/title/tt0070735/
+120,Oppenheimer,8.3,889726,"['Biography', 'Drama', 'History']",180,R,2023,United States,"['Cillian Murphy', 'Emily Blunt', 'Matt Damon']",https://www.imdb.com/title/tt15398776/
+121,Metropolis,8.3,194305,"['Drama', 'Sci-Fi']",153,Not Rated,1927,Germany,"['Brigitte Helm', 'Alfred Abel', 'Gustav Fröhlich']",https://www.imdb.com/title/tt0017136/
+122,Snatch,8.2,945849,"['Comedy', 'Crime']",102,R,2001,United Kingdom,"['Jason Statham', 'Brad Pitt', 'Stephen Graham']",https://www.imdb.com/title/tt0208092/
+123,1917,8.2,727549,"['Action', 'Drama', 'War']",119,R,2020,United Kingdom,"['Dean-Charles Chapman', 'George MacKay', 'Daniel Mays']",https://www.imdb.com/title/tt8579674/
+124,L.A. Confidential,8.2,640909,"['Crime', 'Drama', 'Mystery']",138,R,1997,United States,"['Kevin Spacey', 'Russell Crowe', 'Guy Pearce']",https://www.imdb.com/title/tt0119488/
+125,Ladri di biciclette,8.2,185292,['Drama'],89,Not Rated,1949,Italy,"['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell']",https://www.imdb.com/title/tt0040522/
+126,Der Untergang,8.2,388450,"['Biography', 'Drama', 'History']",156,R,2005,Germany,"['Bruno Ganz', 'Alexandra Maria Lara', 'Ulrich Matthes']",https://www.imdb.com/title/tt0363163/
+127,Dangal,8.3,225449,"['Action', 'Biography', 'Drama']",161,Not Rated,2016,India,"['Aamir Khan', 'Sakshi Tanwar', 'Fatima Sana Shaikh']",https://www.imdb.com/title/tt5074352/
+128,The Wolf of Wall Street,8.2,1686053,"['Biography', 'Comedy', 'Crime']",180,R,2013,United States,"['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie']",https://www.imdb.com/title/tt0993846/
+129,Hamilton,8.3,127455,"['Biography', 'Drama', 'History']",160,PG-13,2020,United States,"['Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.']",https://www.imdb.com/title/tt8503618/
+130,Taxi Driver,8.2,978359,"['Crime', 'Drama']",114,R,1976,United States,"['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd']",https://www.imdb.com/title/tt0075314/
+131,Green Book,8.2,635095,"['Biography', 'Comedy', 'Drama']",130,PG-13,2018,United States,"['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini']",https://www.imdb.com/title/tt6966692/
+132,Batman Begins,8.2,1645817,"['Action', 'Crime', 'Drama']",140,PG-13,2005,United States,"['Christian Bale', 'Michael Caine', 'Ken Watanabe']",https://www.imdb.com/title/tt0372784/
+133,Per qualche dollaro in più,8.2,288392,"['Drama', 'Western']",132,R,1967,Italy,"['Clint Eastwood', 'Lee Van Cleef', 'Gian Maria Volontè']",https://www.imdb.com/title/tt0059578/
+134,The Truman Show,8.2,1280010,"['Comedy', 'Drama']",103,PG,1998,United States,"['Jim Carrey', 'Ed Harris', 'Laura Linney']",https://www.imdb.com/title/tt0120382/
+135,Judgment at Nuremberg,8.3,91543,"['Drama', 'War']",179,Approved,1961,United States,"['Spencer Tracy', 'Burt Lancaster', 'Richard Widmark']",https://www.imdb.com/title/tt0055031/
+136,Some Like It Hot,8.2,294979,"['Comedy', 'Music', 'Romance']",121,Approved,1959,United States,"['Marilyn Monroe', 'Tony Curtis', 'Jack Lemmon']",https://www.imdb.com/title/tt0053291/
+137,Shutter Island,8.2,1548808,"['Drama', 'Mystery', 'Thriller']",138,R,2010,United States,"['Leonardo DiCaprio', 'Emily Mortimer', 'Mark Ruffalo']",https://www.imdb.com/title/tt1130884/
+138,The Kid,8.2,141146,"['Comedy', 'Drama', 'Family']",68,Passed,1921,United States,"['Charles Chaplin', 'Edna Purviance', 'Jackie Coogan']",https://www.imdb.com/title/tt0012349/
+139,The Father,8.2,212929,"['Drama', 'Mystery']",97,PG-13,2021,United Kingdom,"['Anthony Hopkins', 'Olivia Colman', 'Mark Gatiss']",https://www.imdb.com/title/tt10272386/
+140,All About Eve,8.2,144679,['Drama'],138,Approved,1950,United States,"['Bette Davis', 'Anne Baxter', 'George Sanders']",https://www.imdb.com/title/tt0042192/
+141,Jurassic Park,8.2,1118963,"['Action', 'Adventure', 'Sci-Fi']",127,PG-13,1993,United States,"['Sam Neill', 'Laura Dern', 'Jeff Goldblum']",https://www.imdb.com/title/tt0107290/
+142,There Will Be Blood,8.2,670748,['Drama'],158,R,2008,United States,"['Daniel Day-Lewis', 'Paul Dano', 'Ciarán Hinds']",https://www.imdb.com/title/tt0469494/
+143,The Sixth Sense,8.2,1099031,"['Drama', 'Mystery', 'Thriller']",107,PG-13,1999,United States,"['Bruce Willis', 'Haley Joel Osment', 'Toni Collette']",https://www.imdb.com/title/tt0167404/
+144,Casino,8.2,592159,"['Crime', 'Drama']",178,R,1995,United States,"['Robert De Niro', 'Sharon Stone', 'Joe Pesci']",https://www.imdb.com/title/tt0112641/
+145,Ran,8.2,143783,"['Action', 'Drama', 'War']",160,R,1985,Japan,"['Tatsuya Nakadai', 'Akira Terao', 'Jinpachi Nezu']",https://www.imdb.com/title/tt0089881/
+146,Top Gun: Maverick,8.2,774962,"['Action', 'Drama']",130,PG-13,2022,United States,"['Tom Cruise', 'Jennifer Connelly', 'Miles Teller']",https://www.imdb.com/title/tt1745960/
+147,No Country for Old Men,8.2,1121490,"['Crime', 'Drama', 'Thriller']",122,R,2007,United States,"['Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin']",https://www.imdb.com/title/tt0477348/
+148,The Thing,8.2,498333,"['Horror', 'Mystery', 'Sci-Fi']",109,R,1982,United States,"['Kurt Russell', 'Wilford Brimley', 'Keith David']",https://www.imdb.com/title/tt0084787/
+149,El laberinto del fauno,8.2,724685,"['Drama', 'Fantasy', 'War']",118,R,2007,Mexico,"['Ivana Baquero', 'Ariadna Gil', 'Sergi López']",https://www.imdb.com/title/tt0457430/
+150,Unforgiven,8.2,454277,"['Drama', 'Western']",130,R,1992,United States,"['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman']",https://www.imdb.com/title/tt0105695/
+151,A Beautiful Mind,8.2,1021688,"['Biography', 'Drama', 'Mystery']",135,PG-13,2002,United States,"['Russell Crowe', 'Ed Harris', 'Jennifer Connelly']",https://www.imdb.com/title/tt0268978/
+152,Kill Bill: Vol. 1,8.2,1250338,"['Action', 'Crime', 'Thriller']",111,R,2003,United States,"['Uma Thurman', 'David Carradine', 'Daryl Hannah']",https://www.imdb.com/title/tt0266697/
+153,The Treasure of the Sierra Madre,8.2,137337,"['Adventure', 'Drama', 'Western']",126,Approved,1948,United States,"['Humphrey Bogart', 'Walter Huston', 'Tim Holt']",https://www.imdb.com/title/tt0040897/
+154,Prisoners,8.2,871083,"['Crime', 'Drama', 'Mystery']",153,R,2013,United States,"['Hugh Jackman', 'Jake Gyllenhaal', 'Viola Davis']",https://www.imdb.com/title/tt1392214/
+155,Yôjinbô,8.2,137586,"['Action', 'Drama', 'Thriller']",110,Not Rated,1961,Japan,"['Toshirô Mifune', 'Eijirô Tôno', 'Tatsuya Nakadai']",https://www.imdb.com/title/tt0055630/
+156,Finding Nemo,8.2,1159793,"['Animation', 'Adventure', 'Comedy']",100,G,2003,United States,"['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould']",https://www.imdb.com/title/tt0266543/
+157,Hauru no ugoku shiro,8.2,482928,"['Animation', 'Adventure', 'Family']",119,PG,2005,Japan,"['Chieko Baishô', 'Takuya Kimura', 'Tatsuya Gashûin']",https://www.imdb.com/title/tt0347149/
+158,The Great Escape,8.2,268559,"['Adventure', 'Drama', 'Thriller']",172,Approved,1963,United States,"['Steve McQueen', 'James Garner', 'Richard Attenborough']",https://www.imdb.com/title/tt0057115/
+159,Monty Python and the Holy Grail,8.2,587703,"['Adventure', 'Comedy', 'Fantasy']",91,PG,1975,United Kingdom,"['Graham Chapman', 'John Cleese', 'Eric Idle']",https://www.imdb.com/title/tt0071853/
+160,The Elephant Man,8.2,272717,"['Biography', 'Drama']",124,PG,1980,United States,"['Anthony Hopkins', 'John Hurt', 'Anne Bancroft']",https://www.imdb.com/title/tt0080678/
+161,Dial M for Murder,8.2,197793,"['Crime', 'Drama', 'Mystery']",105,PG,1954,United States,"['Ray Milland', 'Grace Kelly', 'Robert Cummings']",https://www.imdb.com/title/tt0046912/
+162,Klaus,8.2,214224,"['Animation', 'Adventure', 'Comedy']",96,PG,2019,Spain,"['Jason Schwartzman', 'J.K. Simmons', 'Rashida Jones']",https://www.imdb.com/title/tt4729430/
+163,Gone with the Wind,8.2,346343,"['Drama', 'Romance', 'War']",238,G,1940,United States,"['Clark Gable', 'Vivien Leigh', 'Thomas Mitchell']",https://www.imdb.com/title/tt0031381/
+164,Rashômon,8.2,189327,"['Crime', 'Drama', 'Mystery']",88,Not Rated,1951,Japan,"['Toshirô Mifune', 'Machiko Kyô', 'Masayuki Mori']",https://www.imdb.com/title/tt0042876/
+165,Chinatown,8.1,364865,"['Drama', 'Mystery', 'Thriller']",130,R,1974,United States,"['Jack Nicholson', 'Faye Dunaway', 'John Huston']",https://www.imdb.com/title/tt0071315/
+166,El secreto de sus ojos,8.2,232648,"['Drama', 'Mystery', 'Romance']",129,R,2010,Argentina,"['Ricardo Darín', 'Soledad Villamil', 'Pablo Rago']",https://www.imdb.com/title/tt1305806/
+167,"Lock, Stock and Two Smoking Barrels",8.1,634989,"['Comedy', 'Crime']",107,R,1998,United Kingdom,"['Jason Flemyng', 'Dexter Fletcher', 'Nick Moran']",https://www.imdb.com/title/tt0120735/
+168,V for Vendetta,8.1,1214708,"['Action', 'Drama', 'Sci-Fi']",132,R,2006,United States,"['Hugo Weaving', 'Natalie Portman', 'Rupert Graves']",https://www.imdb.com/title/tt0434409/
+169,Inside Out,8.1,866943,"['Animation', 'Adventure', 'Comedy']",95,PG,2015,United States,"['Amy Poehler', 'Bill Hader', 'Lewis Black']",https://www.imdb.com/title/tt2096673/
+170,"Three Billboards Outside Ebbing, Missouri",8.1,582781,"['Comedy', 'Crime', 'Drama']",115,R,2017,United Kingdom,"['Frances McDormand', 'Woody Harrelson', 'Sam Rockwell']",https://www.imdb.com/title/tt5027774/
+171,The Bridge on the River Kwai,8.1,241814,"['Adventure', 'Drama', 'War']",161,PG,1957,United Kingdom,"['William Holden', 'Alec Guinness', 'Jack Hawkins']",https://www.imdb.com/title/tt0050212/
+172,Trainspotting,8.1,749232,['Drama'],93,R,1996,United Kingdom,"['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller']",https://www.imdb.com/title/tt0117951/
+173,Catch Me If You Can,8.1,1164387,"['Biography', 'Crime', 'Drama']",141,PG-13,2002,United States,"['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken']",https://www.imdb.com/title/tt0264464/
+174,Raging Bull,8.1,395555,"['Biography', 'Drama', 'Sport']",129,R,1980,United States,"['Robert De Niro', 'Cathy Moriarty', 'Joe Pesci']",https://www.imdb.com/title/tt0081398/
+175,The Wild Robot,8.2,167328,"['Animation', 'Sci-Fi']",102,PG,2024,United States,"['Lupita Nyong&apos;o', 'Pedro Pascal', 'Kit Connor']",https://www.imdb.com/title/tt29623480/
+176,Fargo,8.1,756120,"['Crime', 'Drama', 'Thriller']",98,R,1996,United Kingdom,"['William H. Macy', 'Frances McDormand', 'Steve Buscemi']",https://www.imdb.com/title/tt0116282/
+177,Warrior,8.1,514286,"['Action', 'Drama', 'Sport']",140,PG-13,2011,United States,"['Tom Hardy', 'Nick Nolte', 'Joel Edgerton']",https://www.imdb.com/title/tt1291584/
+178,Harry Potter and the Deathly Hallows - Part 2,8.1,997087,"['Adventure', 'Family', 'Fantasy']",130,PG-13,2011,United Kingdom,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']",https://www.imdb.com/title/tt1201607/
+179,Gran Torino,8.1,839031,['Drama'],116,R,2009,Germany,"['Clint Eastwood', 'Bee Vang', 'Christopher Carley']",https://www.imdb.com/title/tt1205489/
+180,Million Dollar Baby,8.1,746097,"['Drama', 'Sport']",132,PG-13,2005,United States,"['Hilary Swank', 'Clint Eastwood', 'Morgan Freeman']",https://www.imdb.com/title/tt0405159/
+181,Ben-Hur,8.1,263374,"['Adventure', 'Drama']",212,G,1959,United States,"['Charlton Heston', 'Jack Hawkins', 'Stephen Boyd']",https://www.imdb.com/title/tt0052618/
+182,Mad Max: Fury Road,8.1,1164909,"['Action', 'Adventure', 'Sci-Fi']",120,R,2015,Australia,"['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult']",https://www.imdb.com/title/tt1392190/
+183,Tonari no Totoro,8.1,407353,"['Animation', 'Comedy', 'Family']",86,G,1990,Japan,"['Hitoshi Takagi', 'Noriko Hidaka', 'Chika Sakamoto']",https://www.imdb.com/title/tt0096283/
+184,Spider-Man: No Way Home,8.2,950945,"['Action', 'Adventure', 'Fantasy']",148,PG-13,2021,United States,"['Tom Holland', 'Zendaya', 'Benedict Cumberbatch']",https://www.imdb.com/title/tt10872600/
+185,Barry Lyndon,8.1,193204,"['Adventure', 'Drama', 'War']",185,PG,1975,United Kingdom,"['Ryan O&apos;Neal', 'Marisa Berenson', 'Patrick Magee']",https://www.imdb.com/title/tt0072684/
+186,Dead Poets Society,8.1,590803,"['Comedy', 'Drama']",128,PG,1989,United States,"['Robin Williams', 'Robert Sean Leonard', 'Ethan Hawke']",https://www.imdb.com/title/tt0097165/
+187,Bacheha-ye aseman,8.2,85701,"['Drama', 'Family', 'Sport']",89,PG,1999,Iran,"['Reza Naji', 'Amir Farrokh Hashemian', 'Bahare Seddiqi']",https://www.imdb.com/title/tt0118849/
+188,12 Years a Slave,8.1,764522,"['Biography', 'Drama', 'History']",134,R,2013,United Kingdom,"['Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender']",https://www.imdb.com/title/tt2024544/
+189,Before Sunrise,8.1,358872,"['Comedy', 'Drama', 'Romance']",101,R,1995,United States,"['Ethan Hawke', 'Julie Delpy', 'Andrea Eckert']",https://www.imdb.com/title/tt0112471/
+190,The Grand Budapest Hotel,8.1,926199,"['Comedy', 'Drama']",99,R,2014,United States,"['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric']",https://www.imdb.com/title/tt2278388/
+191,Hacksaw Ridge,8.1,636965,"['Biography', 'Drama', 'History']",139,R,2016,United States,"['Andrew Garfield', 'Sam Worthington', 'Luke Bracey']",https://www.imdb.com/title/tt2119532/
+192,Blade Runner,8.1,853905,"['Action', 'Drama', 'Sci-Fi']",117,R,1982,United States,"['Harrison Ford', 'Rutger Hauer', 'Sean Young']",https://www.imdb.com/title/tt0083658/
+193,Gone Girl,8.1,1120613,"['Drama', 'Mystery', 'Thriller']",149,R,2014,United States,"['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris']",https://www.imdb.com/title/tt2267998/
+194,Salinui chueok,8.1,240996,"['Crime', 'Drama', 'Mystery']",132,Not Rated,2003,South Korea,"['Song Kang-ho', 'Kim Sang-kyung', 'Kim Roe-ha']",https://www.imdb.com/title/tt0353969/
+195,Ratatouille,8.1,884734,"['Animation', 'Adventure', 'Comedy']",111,G,2007,United States,"['Brad Garrett', 'Lou Romano', 'Patton Oswalt']",https://www.imdb.com/title/tt0382932/
+196,"Monsters, Inc.",8.1,1027474,"['Animation', 'Adventure', 'Comedy']",92,G,2001,United States,"['Billy Crystal', 'John Goodman', 'Mary Gibbs']",https://www.imdb.com/title/tt0198781/
+197,In the Name of the Father,8.1,195881,"['Biography', 'Crime', 'Drama']",133,R,1994,Ireland,"['Daniel Day-Lewis', 'Pete Postlethwaite', 'Alison Crosbie']",https://www.imdb.com/title/tt0107207/
+198,How to Train Your Dragon,8.1,843563,"['Animation', 'Action', 'Adventure']",98,PG,2010,United States,"['Jay Baruchel', 'Gerard Butler', 'Christopher Mintz-Plasse']",https://www.imdb.com/title/tt0892769/
+199,Relatos salvajes,8.1,228430,"['Comedy', 'Drama', 'Thriller']",122,R,2014,Argentina,"['Darío Grandinetti', 'María Marull', 'Mónica Villa']",https://www.imdb.com/title/tt3011894/
+200,The Gold Rush,8.1,123819,"['Adventure', 'Comedy', 'Drama']",95,Approved,1925,United States,"['Charles Chaplin', 'Mack Swain', 'Tom Murray']",https://www.imdb.com/title/tt0015864/
+201,Sherlock Jr.,8.2,61957,"['Action', 'Comedy', 'Romance']",45,Passed,1924,United States,"['Buster Keaton', 'Kathryn McGuire', 'Joe Keaton']",https://www.imdb.com/title/tt0015324/
+202,Jaws,8.1,694053,"['Adventure', 'Drama', 'Horror']",124,PG,1975,United States,"['Roy Scheider', 'Robert Shaw', 'Richard Dreyfuss']",https://www.imdb.com/title/tt0073195/
+203,Mary and Max.,8.1,195945,"['Animation', 'Comedy', 'Drama']",92,Not Rated,2009,Australia,"['Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana']",https://www.imdb.com/title/tt0978762/
+204,The Deer Hunter,8.1,375470,"['Drama', 'War']",183,R,1979,United States,"['Robert De Niro', 'Christopher Walken', 'John Cazale']",https://www.imdb.com/title/tt0077416/
+205,Ford v Ferrari,8.1,522464,"['Action', 'Biography', 'Drama']",152,PG-13,2019,United States,"['Matt Damon', 'Christian Bale', 'Jon Bernthal']",https://www.imdb.com/title/tt1950186/
+206,The General,8.1,102673,"['Action', 'Adventure', 'Comedy']",78,Passed,1927,United States,"['Buster Keaton', 'Marion Mack', 'Glen Cavender']",https://www.imdb.com/title/tt0017925/
+207,Le salaire de la peur,8.1,70400,"['Adventure', 'Drama', 'Thriller']",156,Not Rated,1955,France,"['Yves Montand', 'Charles Vanel', 'Peter van Eyck']",https://www.imdb.com/title/tt0046268/
+208,Mr. Smith Goes to Washington,8.1,125938,"['Comedy', 'Drama']",129,Approved,1939,United States,"['James Stewart', 'Jean Arthur', 'Claude Rains']",https://www.imdb.com/title/tt0031679/
+209,On the Waterfront,8.1,172268,"['Crime', 'Drama', 'Thriller']",108,Approved,1954,United States,"['Marlon Brando', 'Karl Malden', 'Lee J. Cobb']",https://www.imdb.com/title/tt0047296/
+210,Smultronstället,8.1,120424,"['Drama', 'Romance']",92,Not Rated,1959,Sweden,"['Victor Sjöström', 'Bibi Andersson', 'Ingrid Thulin']",https://www.imdb.com/title/tt0050986/
+211,Logan,8.1,889507,"['Action', 'Drama', 'Sci-Fi']",137,R,2017,United States,"['Hugh Jackman', 'Patrick Stewart', 'Dafne Keen']",https://www.imdb.com/title/tt3315342/
+212,Rocky,8.1,659703,"['Drama', 'Sport']",120,PG,1976,United States,"['Sylvester Stallone', 'Talia Shire', 'Burt Young']",https://www.imdb.com/title/tt0075148/
+213,The Third Man,8.1,189676,"['Drama', 'Film-Noir', 'Mystery']",104,Approved,1950,United Kingdom,"['Orson Welles', 'Joseph Cotten', 'Alida Valli']",https://www.imdb.com/title/tt0041959/
+214,Tôkyô monogatari,8.1,73870,['Drama'],137,Not Rated,1972,Japan,"['Chishû Ryû', 'Chieko Higashiyama', 'Sô Yamamura']",https://www.imdb.com/title/tt0046438/
+215,Ainda Estou Aqui,8.3,107293,"['Biography', 'Drama', 'History']",137,PG-13,2025,Brazil,"['Fernanda Torres', 'Fernanda Montenegro', 'Selton Mello']",https://www.imdb.com/title/tt14961016/
+216,Spotlight,8.1,518621,"['Biography', 'Crime', 'Drama']",129,R,2015,United States,"['Mark Ruffalo', 'Michael Keaton', 'Rachel McAdams']",https://www.imdb.com/title/tt1895587/
+217,The Big Lebowski,8.1,890233,"['Comedy', 'Crime']",117,R,1998,United Kingdom,"['Jeff Bridges', 'John Goodman', 'Julianne Moore']",https://www.imdb.com/title/tt0118715/
+218,Maharaja,8.4,68113,"['Action', 'Crime', 'Drama']",141,,2024,India,"['Vijay Sethupathi', 'Anurag Kashyap', 'Mamta Mohandas']",https://www.imdb.com/title/tt26548265/
+219,The Terminator,8.1,964507,"['Action', 'Adventure', 'Sci-Fi']",107,R,1984,United Kingdom,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Michael Biehn']",https://www.imdb.com/title/tt0088247/
+220,Det sjunde inseglet,8.1,208418,"['Drama', 'Fantasy']",96,Not Rated,1958,Sweden,"['Max von Sydow', 'Gunnar Björnstrand', 'Bengt Ekerot']",https://www.imdb.com/title/tt0050976/
+221,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1265653,"['Action', 'Adventure', 'Fantasy']",143,PG-13,2003,United States,"['Johnny Depp', 'Geoffrey Rush', 'Orlando Bloom']",https://www.imdb.com/title/tt0325980/
+222,Room,8.1,467736,"['Drama', 'Thriller']",118,R,2016,Ireland,"['Brie Larson', 'Jacob Tremblay', 'Sean Bridgers']",https://www.imdb.com/title/tt3170832/
+223,La haine,8.1,211599,"['Crime', 'Drama']",98,Not Rated,1996,France,"['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui']",https://www.imdb.com/title/tt0113247/
+224,Jai Bhim,8.7,225543,"['Crime', 'Drama']",164,Approved,2021,India,"['Suriya', 'Lijo Mol Jose', 'Manikandan K.']",https://www.imdb.com/title/tt15097216/
+225,Hotel Rwanda,8.1,383727,"['Biography', 'Drama', 'History']",121,PG-13,2005,United States,"['Don Cheadle', 'Sophie Okonedo', 'Joaquin Phoenix']",https://www.imdb.com/title/tt0395169/
+226,Platoon,8.1,456036,"['Drama', 'War']",120,R,1987,United States,"['Charlie Sheen', 'Tom Berenger', 'Willem Dafoe']",https://www.imdb.com/title/tt0091763/
+227,The Best Years of Our Lives,8.1,74451,"['Drama', 'Romance', 'War']",170,Approved,1947,United States,"['Myrna Loy', 'Dana Andrews', 'Fredric March']",https://www.imdb.com/title/tt0036868/
+228,Before Sunset,8.1,302029,"['Drama', 'Romance']",80,R,2004,France,"['Ethan Hawke', 'Julie Delpy', 'Vernon Dobtcheff']",https://www.imdb.com/title/tt0381681/
+229,The Exorcist,8.1,477543,['Horror'],122,R,1973,United States,"['Ellen Burstyn', 'Max von Sydow', 'Linda Blair']",https://www.imdb.com/title/tt0070047/
+230,La passion de Jeanne d&apos;Arc,8.1,64915,"['Biography', 'Drama', 'History']",114,Passed,1928,France,"['Maria Falconetti', 'Eugene Silvain', 'André Berley']",https://www.imdb.com/title/tt0019254/
+231,The Sound of Music,8.1,276275,"['Biography', 'Drama', 'Family']",172,G,1965,United States,"['Julie Andrews', 'Christopher Plummer', 'Eleanor Parker']",https://www.imdb.com/title/tt0059742/
+232,The Wizard of Oz,8.1,450429,"['Adventure', 'Family', 'Fantasy']",102,G,1939,United States,"['Judy Garland', 'Frank Morgan', 'Ray Bolger']",https://www.imdb.com/title/tt0032138/
+233,The Incredibles,8.0,854951,"['Animation', 'Action', 'Adventure']",115,PG,2004,United States,"['Craig T. Nelson', 'Samuel L. Jackson', 'Holly Hunter']",https://www.imdb.com/title/tt0317705/
+234,Hachi: A Dog&apos;s Tale,8.1,328175,"['Biography', 'Drama', 'Family']",93,G,2010,United Kingdom,"['Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa']",https://www.imdb.com/title/tt1028532/
+235,Rush,8.1,534288,"['Biography', 'Drama', 'Sport']",123,R,2013,United Kingdom,"['Daniel Brühl', 'Chris Hemsworth', 'Olivia Wilde']",https://www.imdb.com/title/tt1979320/
+236,Stand by Me,8.1,464237,"['Adventure', 'Comedy', 'Drama']",89,R,1986,United States,"['Wil Wheaton', 'River Phoenix', 'Corey Feldman']",https://www.imdb.com/title/tt0092005/
+237,Network,8.1,179119,['Drama'],121,R,1976,United States,"['Faye Dunaway', 'William Holden', 'Peter Finch']",https://www.imdb.com/title/tt0074958/
+238,Babam ve Oglum,8.2,97332,"['Drama', 'Family']",112,Not Rated,2005,Turkey,"['Çetin Tekindor', 'Fikret Kuskan', 'Hümeyra']",https://www.imdb.com/title/tt0476735/
+239,The Iron Giant,8.1,244594,"['Animation', 'Action', 'Adventure']",86,PG,1999,United States,"['Eli Marienthal', 'Harry Connick Jr.', 'Jennifer Aniston']",https://www.imdb.com/title/tt0129167/
+240,Ah-ga-ssi,8.1,188130,"['Drama', 'Romance', 'Thriller']",145,Not Rated,2017,South Korea,"['Kim Min-hee', 'Ha Jung-woo', 'Cho Jin-woong']",https://www.imdb.com/title/tt4016934/
+241,To Be or Not to Be,8.1,46956,"['Comedy', 'Romance', 'War']",99,Approved,1942,United States,"['Carole Lombard', 'Jack Benny', 'Robert Stack']",https://www.imdb.com/title/tt0035446/
+242,Koe no katachi,8.1,120392,"['Animation', 'Drama']",130,Not Rated,2016,Japan,"['Miyu Irino', 'Saori Hayami', 'Aoi Yûki']",https://www.imdb.com/title/tt5323662/
+243,La battaglia di Algeri,8.1,70987,"['Drama', 'War']",121,Not Rated,1967,Italy,"['Brahim Hadjadj', 'Jean Martin', 'Yacef Saadi']",https://www.imdb.com/title/tt0058946/
+244,The Grapes of Wrath,8.1,104674,['Drama'],129,Approved,1940,United States,"['Henry Fonda', 'Jane Darwell', 'John Carradine']",https://www.imdb.com/title/tt0032551/
+245,Into the Wild,8.0,679090,"['Adventure', 'Biography', 'Drama']",148,R,2007,United States,"['Emile Hirsch', 'Vince Vaughn', 'Catherine Keener']",https://www.imdb.com/title/tt0758758/
+246,Groundhog Day,8.0,716252,"['Comedy', 'Drama', 'Fantasy']",101,PG,1993,United States,"['Bill Murray', 'Andie MacDowell', 'Chris Elliott']",https://www.imdb.com/title/tt0107048/
+247,The Help,8.1,512717,['Drama'],146,PG-13,2011,United States,"['Viola Davis', 'Emma Stone', 'Octavia Spencer']",https://www.imdb.com/title/tt1454029/
+248,Amores perros,8.0,267753,"['Drama', 'Thriller']",154,R,2001,Mexico,"['Emilio Echevarría', 'Gael García Bernal', 'Goya Toledo']",https://www.imdb.com/title/tt0245712/
+249,Gangs of Wasseypur,8.2,107506,"['Action', 'Comedy', 'Crime']",321,Not Rated,2012,India,"['Manoj Bajpayee', 'Nawazuddin Siddiqui', 'Tigmanshu Dhulia']",https://www.imdb.com/title/tt1954470/
+250,Rebecca,8.1,159113,"['Drama', 'Mystery', 'Romance']",130,Approved,1940,United States,"['Laurence Olivier', 'Joan Fontaine', 'George Sanders']",https://www.imdb.com/title/tt0032976/
