@@ -75,5 +75,5 @@ pip install -r requirements.txt
 
 ## ✍️ Автор(ы)
 
-_Data Pipeline:_ **Имя A**  
-_EDA & Visuals:_ **Имя B**
+_Data Pipeline:_ **Яковлев Олег 413120**  
+_EDA & Visuals:_ **Яковлев Степан 468173**
